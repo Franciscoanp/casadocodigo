@@ -19,7 +19,7 @@ public class AppWebConfiguration {
 		
 		return resolver;
 
-	// adicionando comentario teste pro commit
+	
 	}
 	
 }
