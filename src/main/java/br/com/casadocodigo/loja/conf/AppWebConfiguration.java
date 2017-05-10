@@ -19,8 +19,7 @@ public class AppWebConfiguration {
 		
 		return resolver;
 
-		//teste pro commit
-	
+			
 	}
 	
 }
