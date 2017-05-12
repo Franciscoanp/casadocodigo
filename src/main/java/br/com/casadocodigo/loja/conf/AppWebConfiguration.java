@@ -19,7 +19,7 @@ public class AppWebConfiguration {
 		
 		return resolver;
 
-	
+	//teste
 	}
 	
 }
