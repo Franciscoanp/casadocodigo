@@ -20,7 +20,11 @@ public class AppWebConfiguration {
 		
 		return resolver;
 
+<<<<<<< HEAD
+	//teste
+=======
 			
+>>>>>>> 96a6c993972fa9cf66c2673a98b65ee4e62417ec
 	}
 	
 }
