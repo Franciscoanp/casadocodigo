@@ -5,4 +5,4 @@ link com comandos uteis do git
 https://gist.github.com/leocomelli/2545add34e4fec21ec16
 
 # andamento do curso
-assistir aula 02 video 03
+assistir aula 02 video 03 teste
