@@ -18,7 +18,7 @@ public class Produto {
 	private String descricao;
 	private int paginas;
 
-	@ElementCollection //relaciona o preco com produto sem controle de ID
+	@ElementCollection //relaciona a lista de precos com produto sem controle de ID
 	private List<Preco> precos;
 
 	public String getTitulo() {
