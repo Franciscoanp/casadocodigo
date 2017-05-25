@@ -3,7 +3,6 @@ package br.com.casadocodigo.loja.conf;
 import java.util.Properties;
 
 import javax.persistence.EntityManagerFactory;
-import javax.transaction.TransactionManager;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
